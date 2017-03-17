@@ -13,3 +13,5 @@ GIOT_MQTTmanual_forLoramodule_v1.0.2.pdf MQTT server 存取手冊
 GIOT_IDU_User_Guide_20160913.pdf 室內型LoRa 基地臺使用手冊
 ##如果您完全沒有open hardware 開發經驗 您可以從 
 TPE_Workshop_20160511 這個目錄下的資料開始
+
+GL6509 FW Upgrade Guide.pdf 利用USB2TTL 模組配合STM 提供的Flash 燒錄軟體升級說明
